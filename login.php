@@ -33,7 +33,7 @@
     <title>Caixa Eletrônico</title>
 </head>
 <body>
-    <form action="">
+    <form method="POST">
         Agência:<br/>
         <input type="text" name="agencia" /> <br/><br/>
 
